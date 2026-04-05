@@ -10,3 +10,4 @@ qdrant-client
 openai
 python-dotenv
 pydantic
+streamlit

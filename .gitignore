@@ -208,3 +208,5 @@ __marimo__/
 
 # data files
 test_scripts/qdrant_data/
+db
+data/*
